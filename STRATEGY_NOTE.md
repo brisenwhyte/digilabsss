@@ -1,0 +1,9 @@
+# Strategy Note
+
+The page is structured as a product-launch story, but the product is now DigiLabss's growth engine rather than a standalone website service. The original DigiLabss site presents an AI-powered marketing agency offering short-form video, Meta ads, conversion web design, automation, social media management, reporting, and strategy calls. This version removes dense service grids, comparison-table copy, generic agency explanation, and unsupported client-result claims, while preserving the most important signals: 3-5 day creative turnaround, 7-day ad launches, 10-14 day website builds, 24/7 follow-up, flat pricing, integrated systems, and revenue-focused reporting.
+
+The browser remains the central visual object because the website is still the conversion hub where campaign attention becomes action. Instead of saying DigiLabss is a website company, the page shows how posts, ads, pages, CRM, analytics, and automation become one connected operating system. Service information is converted into sequential visual capabilities rather than conventional cards.
+
+The Apple-style influence is in pacing, restraint, scale, and choreography rather than copied branding. Each act has one big idea, large typography, minimal copy, and a visual proof point. Motion reinforces the story: the hero introduces the engine, scroll reveals shift from scattered marketing to an engineered system, counters make operating targets tangible, the before/after slider demonstrates transformation, and the process timeline mirrors the original discovery-to-scale workflow.
+
+Performance is protected by avoiding video, stock-photo payloads, heavy particle systems, and custom scroll listeners. CSS/DOM visuals, Framer Motion viewport triggers, reserved mockup dimensions, simple transforms, reduced-motion support, and a small dependency footprint keep the experience premium without making the browser work too hard.
